@@ -1,1 +1,1 @@
-# linkssh
+# snowssh
